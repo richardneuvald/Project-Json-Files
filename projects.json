@@ -1,0 +1,72 @@
+[
+    {
+        "name" : "Password Checker",
+        "description": "A browser extension which is checking the user's password strength",
+        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
+        "type": "browser",
+        "urls": {
+            "ios": "",
+            "android": "",
+            "chrome": "",
+            "edge": "https://microsoftedge.microsoft.com/addons/detail/password-checker/jemeoilhmkbpfckclmdedfhpklbjlnlm",
+            "firefox": "https://addons.mozilla.org/eu/firefox/addon/passwordgenerator-by-nr-sb/",
+			"website": ""
+        }
+    },
+	{
+        "name" : "Password Generator",
+        "description": "It checks the password strength",
+        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
+        "type": "browser",
+        "urls": {
+            "ios": "",
+            "android": "",
+            "chrome": "https://chromewebstore.google.com/detail/password-generator/dgoamkaooknoahlpkgmpdbicejaodafa",
+            "edge": "https://microsoftedge.microsoft.com/addons/detail/password-generator/kjbiebfndmeecbifhhdpjeoljbbdamhe",
+            "firefox": "",
+			"website": ""
+        }
+    },
+	{
+        "name" : "Multicolor - Discord Bot",
+        "description": "From playing music to doing moderation and securing servers, this bot can do many useful and fun things!",
+        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
+        "type": "web",
+        "urls": {
+            "ios": "",
+            "android": "",
+            "chrome": "",
+            "edge": "",
+            "firefox": "",
+			"website": "https://multicolorbot.com/"
+        }
+    },
+	{
+        "name" : "Linux System Updater",
+        "description": "A Debian based linux software which updates the system",
+        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
+        "type": "web",
+        "urls": {
+            "ios": "",
+            "android": "",
+            "chrome": "",
+            "edge": "",
+            "firefox": "",
+			"website": "https://github.com/NR-SkaterBoy/LinuxSystemUpdater"
+        }
+    },
+	{
+        "name" : "Concert Capture",
+        "description": "",
+        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
+        "type": "mobile",
+        "urls": {
+            "ios": "",
+            "android": "",
+            "chrome": "",
+            "edge": "",
+            "firefox": "",
+			"website": ""
+        }
+    }
+]
