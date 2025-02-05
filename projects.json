@@ -1,10 +1,11 @@
 [
     {
         "name" : "Password Checker",
-        "description": "A browser extension which is checking the user's password strength",
+        "description": "The Password Checker enables users to verify the strength of the passwords they generate, ensuring that their passwords provide adequate protection",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
-        "type": "browser",
-        "urls": {
+        "type": "extension",
+        "status": 2,
+		"urls": {
             "ios": "",
             "android": "",
             "chrome": "",
@@ -15,10 +16,11 @@
     },
 	{
         "name" : "Password Generator",
-        "description": "It checks the password strength",
+        "description": "The Password Generator allows users to protect their data with a suitably strong and secure password generated using the extension",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
-        "type": "browser",
-        "urls": {
+        "type": "extension",
+        "status": 2,
+		"urls": {
             "ios": "",
             "android": "",
             "chrome": "https://chromewebstore.google.com/detail/password-generator/dgoamkaooknoahlpkgmpdbicejaodafa",
@@ -32,7 +34,8 @@
         "description": "From playing music to doing moderation and securing servers, this bot can do many useful and fun things!",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
         "type": "web",
-        "urls": {
+        "status": 1,
+		"urls": {
             "ios": "",
             "android": "",
             "chrome": "",
@@ -43,10 +46,11 @@
     },
 	{
         "name" : "Linux System Updater",
-        "description": "A Debian based linux software which updates the system",
+        "description": "The Linux System Updater (LSU) is designed for Debian-based systems, ensuring that the system can be easily updated in a graphical format, just like on Windows",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
         "type": "web",
-        "urls": {
+        "status": 3,
+		"urls": {
             "ios": "",
             "android": "",
             "chrome": "",
@@ -57,10 +61,11 @@
     },
 	{
         "name" : "Concert Capture",
-        "description": "",
+        "description": "Concert Capture allows users to organize and keep track of concerts, displays statistics to the user, and offers additional music listening data through Spotify integration",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
         "type": "mobile",
-        "urls": {
+        "status": 2,
+		"urls": {
             "ios": "",
             "android": "",
             "chrome": "",
