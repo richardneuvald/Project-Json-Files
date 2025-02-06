@@ -4,7 +4,8 @@
         "description": "The password strength verification tool allows users to assess the security of their generated passwords, thereby ensuring robust protection",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
         "type": "extension",
-        "status": 2,
+        "desktop": false,
+		"status": 1,
 		"urls": {
             "ios": "",
             "android": "",
@@ -19,7 +20,8 @@
         "description": "The Password Generator extension enables users to safeguard their data with a robust, securely generated password",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
         "type": "extension",
-        "status": 2,
+        "desktop": false,
+		"status": 1,
 		"urls": {
             "ios": "",
             "android": "",
@@ -34,7 +36,8 @@
         "description": "From playing music to doing moderation and securing servers, this bot can do many useful and fun things",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
         "type": "web",
-        "status": 1,
+        "desktop": false,
+		"status": 1,
 		"urls": {
             "ios": "",
             "android": "",
@@ -49,14 +52,15 @@
         "description": "The Linux System Updater (LSU) provides a user-friendly graphical interface for updating Debian-based systems, offering functionality comparable to Windows Update",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
         "type": "web",
-        "status": 3,
+        "desktop": true,
+		"status": 2,
 		"urls": {
             "ios": "",
             "android": "",
             "chrome": "",
             "edge": "",
             "firefox": "",
-			"website": "https://github.com/NR-SkaterBoy/LinuxSystemUpdater"
+		"website": "https://github.com/NR-SkaterBoy/LinuxSystemUpdater"
         }
     },
 	{
@@ -64,7 +68,8 @@
         "description": "Concert Capture provides users with tools to organize and monitor concert attendance, generates relevant statistics, and integrates with Spotify to offer enhanced music data",
         "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
         "type": "mobile",
-        "status": 2,
+        "desktop": false,
+		"status": 1,
 		"urls": {
             "ios": "",
             "android": "",
