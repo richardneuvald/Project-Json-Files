@@ -1,82 +1,77 @@
 [
-    {
-        "name" : "Password Checker",
-        "description": "The password strength verification tool allows users to assess the security of their generated passwords, thereby ensuring robust protection",
-        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
-        "type": "extension",
-        "desktop": false,
-		"status": 1,
-		"urls": {
-            "ios": "",
-            "android": "",
-            "chrome": "",
-            "edge": "https://microsoftedge.microsoft.com/addons/detail/password-checker/jemeoilhmkbpfckclmdedfhpklbjlnlm",
-            "firefox": "https://addons.mozilla.org/eu/firefox/addon/passwordgenerator-by-nr-sb/",
-			"website": ""
-        }
-    },
 	{
-        "name" : "Password Generator",
-        "description": "The Password Generator extension enables users to safeguard their data with a robust, securely generated password",
-        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
-        "type": "extension",
-        "desktop": false,
-		"status": 1,
-		"urls": {
-            "ios": "",
-            "android": "",
-            "chrome": "https://chromewebstore.google.com/detail/password-generator/dgoamkaooknoahlpkgmpdbicejaodafa",
-            "edge": "https://microsoftedge.microsoft.com/addons/detail/password-generator/kjbiebfndmeecbifhhdpjeoljbbdamhe",
-            "firefox": "https://addons.mozilla.org/en-US/firefox/addon/passwordgenerator-by-nr-sb/",
-			"website": ""
-        }
-    },
-	{
-        "name" : "Multicolor - Discord Bot",
-        "description": "From playing music to doing moderation and securing servers, this bot can do many useful and fun things",
-        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
-        "type": "web",
-        "desktop": false,
-		"status": 1,
-		"urls": {
-            "ios": "",
-            "android": "",
-            "chrome": "",
-            "edge": "",
-            "firefox": "",
-			"website": "https://multicolorbot.com/"
-        }
-    },
-	{
-        "name" : "Linux System Updater",
-        "description": "The Linux System Updater (LSU) provides a user-friendly graphical interface for updating Debian-based systems, offering functionality comparable to Windows Update",
-        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
-        "type": "web",
-        "desktop": true,
+		"name": "Password Checker",
+		"description": "The password strength verification tool allows users to assess the security of their generated passwords, thereby ensuring robust protection",
+		"img": "/images/portfolio/passcheck.webp",
+		"type": "extension",
 		"status": 2,
 		"urls": {
-            "ios": "",
-            "android": "",
-            "chrome": "",
-            "edge": "",
-            "firefox": "",
-		"website": "https://github.com/NR-SkaterBoy/LinuxSystemUpdater"
-        }
-    },
+			"ios": "",
+			"android": "",
+			"chrome": "",
+			"edge": "https://microsoftedge.microsoft.com/addons/detail/password-checker/jemeoilhmkbpfckclmdedfhpklbjlnlm",
+			"firefox": "",
+			"website": ""
+		}
+	},
 	{
-        "name" : "Concert Capture",
-        "description": "Concert Capture provides users with tools to organize and monitor concert attendance, generates relevant statistics, and integrates with Spotify to offer enhanced music data",
-        "img": "https://shapebootstrap.net/wp-content/uploads/2023/11/image-10-770x461.png",
-        "type": "mobile",
-        "desktop": false,
+		"name": "Password Generator",
+		"description": "The Password Generator extension enables users to safeguard their data with a robust, securely generated password",
+		"img": "/images/portfolio/passgen.webp",
+		"type": "extension",
 		"status": 1,
 		"urls": {
-            "ios": "",
-            "android": "",
-            "chrome": "",
-            "edge": "",
-            "firefox": "",
+			"ios": "",
+			"android": "",
+			"chrome": "https://chromewebstore.google.com/detail/password-generator/dgoamkaooknoahlpkgmpdbicejaodafa",
+			"edge": "https://microsoftedge.microsoft.com/addons/detail/password-generator/kjbiebfndmeecbifhhdpjeoljbbdamhe",
+			"firefox": "https://addons.mozilla.org/en-US/firefox/addon/passwordgenerator-by-nr-sb/",
 			"website": ""
-        }
-    }
+		}
+	},
+	{
+		"name": "Multicolor - Discord Bot",
+		"description": "From playing music to doing moderation and securing servers, this bot can do many useful and fun things",
+		"img": "/images/portfolio/multicolorbot.webp",
+		"type": "web",
+		"status": 1,
+		"urls": {
+			"ios": "",
+			"android": "",
+			"chrome": "",
+			"edge": "",
+			"firefox": "",
+			"website": "https://multicolorbot.com/"
+		}
+	},
+	{
+		"name": "Linux System Updater",
+		"description": "The Linux System Updater (LSU) provides a user-friendly graphical interface for updating Debian-based systems, offering functionality comparable to Windows Update",
+		"img": "/images/portfolio/lsu.webp",
+		"type": "web",
+		"status": 2,
+		"urls": {
+			"ios": "",
+			"android": "",
+			"chrome": "",
+			"edge": "",
+			"firefox": "",
+			"website": "https://github.com/NR-SkaterBoy/LinuxSystemUpdater"
+		}
+	},
+	{
+		"name": "Concert Capture",
+		"description": "Concert Capture provides users with tools to organize and monitor concert attendance, generates relevant statistics, and integrates with Spotify to offer enhanced music data",
+		"img": "/images/portfolio/concertcapture.webp",
+		"type": "mobile",
+		"status": 1,
+		"urls": {
+			"ios": "",
+			"android": "",
+			"chrome": "",
+			"edge": "",
+			"firefox": "",
+			"website": ""
+		}
+	}
 ]
