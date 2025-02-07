@@ -2,7 +2,7 @@
 	{
 		"name": "Password Checker",
 		"description": "The password strength verification tool allows users to assess the security of their generated passwords, thereby ensuring robust protection",
-		"img": "/images/portfolio/passcheck.webp",
+		"img": "/images/portfolio/passcheck.jpg",
 		"type": "extension",
 		"status": 2,
 		"urls": {
@@ -17,7 +17,7 @@
 	{
 		"name": "Password Generator",
 		"description": "The Password Generator extension enables users to safeguard their data with a robust, securely generated password",
-		"img": "/images/portfolio/passgen.webp",
+		"img": "/images/portfolio/passgen.jpg",
 		"type": "extension",
 		"status": 1,
 		"urls": {
@@ -32,7 +32,7 @@
 	{
 		"name": "Multicolor - Discord Bot",
 		"description": "From playing music to doing moderation and securing servers, this bot can do many useful and fun things",
-		"img": "/images/portfolio/multicolorbot.webp",
+		"img": "/images/portfolio/multicolorbot.jpg",
 		"type": "web",
 		"status": 1,
 		"urls": {
@@ -47,7 +47,7 @@
 	{
 		"name": "Linux System Updater",
 		"description": "The Linux System Updater (LSU) provides a user-friendly graphical interface for updating Debian-based systems, offering functionality comparable to Windows Update",
-		"img": "/images/portfolio/lsu.webp",
+		"img": "/images/portfolio/lsu.jpg",
 		"type": "web",
 		"status": 2,
 		"urls": {
@@ -62,7 +62,7 @@
 	{
 		"name": "Concert Capture",
 		"description": "Concert Capture provides users with tools to organize and monitor concert attendance, generates relevant statistics, and integrates with Spotify to offer enhanced music data",
-		"img": "/images/portfolio/concertcapture.webp",
+		"img": "",
 		"type": "mobile",
 		"status": 1,
 		"urls": {
