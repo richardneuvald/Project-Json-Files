@@ -27,7 +27,7 @@
             "android": "",
             "chrome": "https://chromewebstore.google.com/detail/password-generator/dgoamkaooknoahlpkgmpdbicejaodafa",
             "edge": "https://microsoftedge.microsoft.com/addons/detail/password-generator/kjbiebfndmeecbifhhdpjeoljbbdamhe",
-            "firefox": "",
+            "firefox": "https://addons.mozilla.org/en-US/firefox/addon/passwordgenerator-by-nr-sb/",
 			"website": ""
         }
     },
