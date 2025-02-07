@@ -1,5 +1,35 @@
 [
 	{
+		"name": "Concert Capture",
+		"description": "Concert Capture provides users with tools to organize and monitor concert attendance, generates relevant statistics, and integrates with Spotify to offer enhanced music data",
+		"img": "",
+		"type": "mobile",
+		"status": 1,
+		"urls": {
+			"ios": "",
+			"android": "",
+			"chrome": "",
+			"edge": "",
+			"firefox": "",
+			"website": ""
+		}
+	},
+	{
+		"name": "Multicolor - Discord Bot",
+		"description": "From playing music to doing moderation and securing servers, this bot can do many useful and fun things",
+		"img": "/images/portfolio/multicolorbot.jpg",
+		"type": "web",
+		"status": 1,
+		"urls": {
+			"ios": "",
+			"android": "",
+			"chrome": "",
+			"edge": "",
+			"firefox": "",
+			"website": "https://multicolorbot.com/"
+		}
+	},
+	{
 		"name": "Password Checker",
 		"description": "The password strength verification tool allows users to assess the security of their generated passwords, thereby ensuring robust protection",
 		"img": "/images/portfolio/passcheck.jpg",
@@ -30,21 +60,6 @@
 		}
 	},
 	{
-		"name": "Multicolor - Discord Bot",
-		"description": "From playing music to doing moderation and securing servers, this bot can do many useful and fun things",
-		"img": "/images/portfolio/multicolorbot.jpg",
-		"type": "web",
-		"status": 1,
-		"urls": {
-			"ios": "",
-			"android": "",
-			"chrome": "",
-			"edge": "",
-			"firefox": "",
-			"website": "https://multicolorbot.com/"
-		}
-	},
-	{
 		"name": "Linux System Updater",
 		"description": "The Linux System Updater (LSU) provides a user-friendly graphical interface for updating Debian-based systems, offering functionality comparable to Windows Update",
 		"img": "/images/portfolio/lsu.jpg",
@@ -57,21 +72,6 @@
 			"edge": "",
 			"firefox": "",
 			"website": "https://github.com/NR-SkaterBoy/LinuxSystemUpdater"
-		}
-	},
-	{
-		"name": "Concert Capture",
-		"description": "Concert Capture provides users with tools to organize and monitor concert attendance, generates relevant statistics, and integrates with Spotify to offer enhanced music data",
-		"img": "",
-		"type": "mobile",
-		"status": 1,
-		"urls": {
-			"ios": "",
-			"android": "",
-			"chrome": "",
-			"edge": "",
-			"firefox": "",
-			"website": ""
 		}
 	}
 ]
