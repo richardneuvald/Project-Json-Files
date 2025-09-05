@@ -49,7 +49,7 @@
 		"description": "The Password Generator extension enables users to safeguard their data with a robust, securely generated password",
 		"img": "/images/portfolio/passgen.jpg",
 		"type": "extension",
-		"status": 1,
+		"status": 2,
 		"urls": {
 			"ios": "",
 			"android": "",
